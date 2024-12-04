@@ -10,4 +10,4 @@ function changementText(parametre1) {
     }, 2000); 
 }
 
-changementText("Et boum vous êtes hack maintenant hehe! ");
+changementText("Vous êtes dispo mercredi soir ?");
